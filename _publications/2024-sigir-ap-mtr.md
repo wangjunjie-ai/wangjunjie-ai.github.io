@@ -15,6 +15,6 @@ Recent advancements in large language models (LLMs) integrated with external too
 ![this is image 1](/images/papers/2024-sigir-ap/image.png)
 
 
-<div align=center>
+<p align=center>
 	<img src="/images/papers/2024-sigir-ap/image2.png" width="80%">
-</div>
+</p>
