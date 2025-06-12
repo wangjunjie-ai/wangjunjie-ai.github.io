@@ -25,7 +25,7 @@ author:
   avatar           : "avatar.jpg"
   name             : "Junjie Wang (王军杰)"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral fellow, Tsinghua University"
+  bio              : "Postdoctoral Fellow"
   location         : # "China"
   employer         : "Tsinghua University"
   uri              : # URL
@@ -74,7 +74,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "wang-junjie"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
