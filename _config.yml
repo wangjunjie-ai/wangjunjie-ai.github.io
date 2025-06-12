@@ -79,11 +79,11 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+    title: 'Books' 
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Journal Articles'   
   arxiv:
     title: 'Arxiv Papers'
 
