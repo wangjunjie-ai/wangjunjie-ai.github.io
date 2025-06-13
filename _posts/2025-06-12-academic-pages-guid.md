@@ -14,6 +14,7 @@ Quick Guide for Academic Pages (Chinese-English Bilingual)
 
 本页面为中英双语版。This page provides both Chinese and English instructions.
 
+PS: 有两种常用的 Markdown 静态网站生成工具：Jekyll 和 Hugo。Hugo 与 R 语言的 blogdown 包结合紧密，适合用 R 写网站。但是我对其机器不熟悉，而且大部分设置我也不知道在哪儿找。因此放弃了。而Jekyll的大量设置非常符合我的使用习惯，我可以很好的进行调整和掌控。并且，我也更喜欢 Jekyll 的主题风格。因此使用了基于Jekyll的`Academic Pages template`。此外，还有一个最近流行的新方法：Notion + Github 自动化流。但是我发现，页面相对简单，逐渐不满足我的需求，因此转向了此项目。
 
 ## 1. 项目简介 | About this Project
 
