@@ -89,10 +89,6 @@ redirect_from:
   <img src="/images/cv/readpaper.png" width="80%">
 </p>
 
-Language
-======
-* 中文 / 英语 / 粤语 / 日语
-
 Publications
 ======
 Details in [Publications Page](https://wangjunjie-ai.github.io/publications/)
@@ -125,3 +121,7 @@ MOOC 证书
   <img src="/images/cv/c6.png" width="80%"><br>
   <img src="/images/cv/c6.png" width="80%">
 </p>
+
+Language
+======
+* 中文 / 英语 / 粤语 / 日语
