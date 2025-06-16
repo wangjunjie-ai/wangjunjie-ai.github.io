@@ -8,19 +8,17 @@ redirect_from:
 ---
 
 **Junjie Wang (王军杰)** is currently a **postdoctoral researcher** at the [IIGROUP Lab](https://sites.google.com/view/iigroup-thu), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by **Prof. Yujie Yang**. 
-His research interests include natural language processing, multimodal learning, and embodied intelligence. He received his Ph.D. in Engineering from [Waseda University](https://www.waseda.jp/top/en/), under the supervision of **Prof. Tetsuya Sakai**.
+His research interests include natural language processing, multimodal reasoning, and embodied intelligence. He received his Ph.D. in Engineering from [Waseda University](https://www.waseda.jp/top/en/), under the supervision of **Prof. Tetsuya Sakai**.
 
-Email: wangjunjie@sz.tsinghua.edu.cn
+Email: wangjunjie@sz.tsinghua.edu.cn (**请您注明来意**)
 
-WeChat: wjj1020181822 (**请您注明来意**)
-
-**Long-term Goal / 长期目标**
+🌌 **Long-term Goal / 长期目标**
 
 To build AI systems that serve humanity by leveraging information from a human perspective.
 
 利用人类视角的信息构建一个为人类服务的 AI 系统。
 
-**Research Interests / 研究兴趣**
+🔎 **Research Interests / 研究兴趣**
 
 - Controllable reasoning / 可控推理
 - Multimodal large models / 多模态大模型
