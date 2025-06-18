@@ -8,6 +8,8 @@ YuE: Scaling Open Foundation Models for Long-Form Music Generation
 
 项目地址: https://github.com/multimodal-art-projection/YuE
 
+<img src="https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social" alt="GitHub stars">
+
 <p align=center>
 	<img src="/images/projects/yue/yue-intro.png" width="100%">
 </p>
