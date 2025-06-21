@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<img src="/images/avatar.jpg" width="10%">
+
 **Junjie Wang (王军杰)** is currently a **postdoctoral researcher** at the [IIGROUP Lab](https://sites.google.com/view/iigroup-thu), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by **Prof. Yujie Yang**. 
 His research interests include natural language processing, multimodal reasoning, and embodied intelligence. He received his Ph.D. in Engineering from [Waseda University](https://www.waseda.jp/top/en/), under the supervision of **Prof. Tetsuya Sakai**.
 
