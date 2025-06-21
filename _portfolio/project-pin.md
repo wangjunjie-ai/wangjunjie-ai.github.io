@@ -1,6 +1,6 @@
 ---
 title: "最大的开源的交错图文对数据集：PIN"
-excerpt: "PIN（Paired and INterleaved multimodal documents）<br/><img src='/images/projects/pin/overview.png'>"
+excerpt: "PIN（Paired and INterleaved multimodal documents）<br/><img src='/images/projects/pin/overview.png' width='60%'>"
 collection: portfolio
 ---
 

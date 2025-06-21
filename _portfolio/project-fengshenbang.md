@@ -1,6 +1,6 @@
 ---
 title: "封神榜开源体系"
-excerpt: "开源模型、开源框架、开源榜单<br/><img src='/images/projects/fengshenbang/all_models.png'>"
+excerpt: "开源模型、开源框架、开源榜单<br/><img src='/images/projects/fengshenbang/all_models.png' width='60%'>"
 collection: portfolio
 ---
 
