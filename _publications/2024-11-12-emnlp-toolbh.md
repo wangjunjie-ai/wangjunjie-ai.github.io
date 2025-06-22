@@ -7,7 +7,9 @@ excerpt: 'ToolBeHonest, Hallucination, LLM, Multi‑level Diagnostic'
 date: 2024-11-12
 venue: 'EMNLP'
 paperurl: 'https://aclanthology.org/2024.emnlp-main.637/'
+bibtexurl: # empty
 citation: # empyty
+slidesurl: # empyty
 ---
 
 **关键词**

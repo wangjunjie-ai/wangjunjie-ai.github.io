@@ -11,17 +11,17 @@ redirect_from:
 
 教育经历 Education
 ======
-* Ph.D in CS, Waseda University, 2021 - 2024
+* **Ph.D in CS, Waseda University, 2021 - 2024**
   * 指导教授: 酒井哲也 ([Prof. Tetsuya Sakai](http://sakailab.com/tetsuya/))
   * 副指导教授：亀山 渉 (Prof. Wataru Kameyama)
   * 客座学生指导教授: 杨余久 ([Prof. Yujiu Yang](https://www.sigs.tsinghua.edu.cn/yyj_en/main.htm))
   * 研究方向: 基础大模型（大多模态模型，大语言模型）, 人类价值观对齐。
   * Thesis: Towards Building a DIKW Pyramid for Conversational Systems
-* M.S. in CS, Waseda University, 2019 - 2021
+* **M.S. in CS, Waseda University, 2019 - 2021**
   * 指导教授: 酒井哲也 (Tetsuya Sakai)
   * 研究方向:自然语言处理,多模态。
   * Thesis: Learning Multimodal Interaction Representations from Trilinear Transformers for Visual Question Answering
-* B.S. in CS, Waseda University, 2015 - 2019
+* **B.S. in CS, Waseda University, 2015 - 2019**
   * 指导教授: 酒井哲也 (Tetsuya Sakai)
   * Thesis: Toxic Comment Classification Challenge based on CNN, RNN and BERT
 
