@@ -7,7 +7,9 @@ excerpt: 'Massive Tool Retrieval (MTR), Query‑Tool Alignment (QTA), Massive To
 date: 2024-10-08
 venue: 'SIGIR-AP'
 paperurl: 'https://dl.acm.org/doi/10.1145/3673791.3698429'
+bibtexurl: # empty
 citation: # empyty
+slidesurl: # empyty
 ---
 
 **关键词**
