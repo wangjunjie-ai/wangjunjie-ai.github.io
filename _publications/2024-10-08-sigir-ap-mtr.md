@@ -18,6 +18,10 @@ citation: # empyty
 - 低资源学习（Data‑Efficient）
 - Sufficiency@k 指标
 
+Arxiv地址：[https://arxiv.org/abs/2410.03212](https://arxiv.org/abs/2410.03212)
+
+SIGIR-AP 2024：[https://dl.acm.org/doi/10.1145/3673791.3698429](https://dl.acm.org/doi/10.1145/3673791.3698429)
+
 ## 背景  
 
 随着大规模工具库的出现，如何从海量工具中检索出与用户查询相关的工具成为一种关键挑战。当前 LLMs（如 LLaMA‑2）无法直接处理数千工具的输入，因为上下文长超出限制 :contentReference[oaicite:0]{index=0}。为此，需引入 *预检索* 机制，提前过滤出适合工具，即所谓的 **Massive Tool Retrieval (MTR)** 任务。
