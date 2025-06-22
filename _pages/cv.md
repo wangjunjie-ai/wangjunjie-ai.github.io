@@ -12,32 +12,32 @@ redirect_from:
 教育经历 Education
 ======
 * Ph.D in CS, Waseda University, 2021 - 2024
-  * 指导老师: 酒井哲也 ([Prof. Tetsuya Sakai](http://sakailab.com/tetsuya/))
+  * 指导教授: 酒井哲也 ([Prof. Tetsuya Sakai](http://sakailab.com/tetsuya/))
   * 副指导教授：亀山 渉 (Prof. Wataru Kameyama)
   * 客座学生指导教授: 杨余久 ([Prof. Yujiu Yang](https://www.sigs.tsinghua.edu.cn/yyj_en/main.htm))
   * 研究方向: 基础大模型（大多模态模型，大语言模型）, 人类价值观对齐。
   * Thesis: Towards Building a DIKW Pyramid for Conversational Systems
 * M.S. in CS, Waseda University, 2019 - 2021
-  * 指导老师: 酒井哲也 (Tetsuya Sakai)
+  * 指导教授: 酒井哲也 (Tetsuya Sakai)
   * 研究方向:自然语言处理,多模态。
   * Thesis: Learning Multimodal Interaction Representations from Trilinear Transformers for Visual Question Answering
 * B.S. in CS, Waseda University, 2015 - 2019
-  * 指导老师: 酒井哲也 (Tetsuya Sakai)
+  * 指导教授: 酒井哲也 (Tetsuya Sakai)
   * Thesis: Toxic Comment Classification Challenge based on CNN, RNN and BERT
 
 履历 Employment History
 ======
-* 2025.01 - Present: 博士后
+* **2025.01 - Present: 博士后**
   * 清华大学
   * 指导老师: 杨余久
   * 研究方向: 可控生成, 具身智能
 
-* 2023.10 - 2024.02: 研究助理
+* **2023.10 - 2024.02: 研究助理**
   * Hong Kong University of Science and Technology (HKUST)
   * 指导老师: 付杰
   * 科研合作, 助团队管理, 日常事务
 
-* 2021.05 - 2021.10: 算法实习生
+* **2021.05 - 2021.10: 算法实习生**
   * 粤港澳大湾区数字经济研究院 CCNL-认知计算与自然语言研究中心
   * 指导老师: 张家兴, 甘如饴
   * 主要工作内容：致力于研究AIGC相关的基础模型,比如，统一的语言模型、多模态大模型。如，太乙系列大模型，二郎神系列等。
@@ -49,7 +49,7 @@ redirect_from:
   <img src="/images/cv/fsb-project.png" width="80%">
 </p>
 
-* 2021.05 - 2021.10: 策略算法实习生
+* **2021.05 - 2021.10: 策略算法实习生**
   * 深圳市腾讯计算机系统有限公司 CDG-广告产品技术部
   * 指导老师: 杨建博
   * 主要工作内容：多模态广告推荐相关的研究 (多模态图神经网络, 已中ACM MM 2022)
