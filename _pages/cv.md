@@ -63,7 +63,7 @@ redirect_from:
 ======
 
 **审稿员**
-  * 会议； SIGIR, ACL, EMNLP, ACM MM, CVPR, CoLM
+  * 会议: SIGIR, ACL, EMNLP, ACM MM, CVPR, CoLM
   * 期刊: TCSVT
 
 **组织者**
