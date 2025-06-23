@@ -2,7 +2,7 @@
 title: "⭐ [SIGIR-AP 2024] Data-Efficient Massive Tool Retrieval: A Reinforcement Learning Approach for Query-Tool Alignment with Language Models"
 collection: publications
 category: conferences
-permalink: /publication/2024-sigir-ap-mtr
+permalink: /publication/2024-10-08-sigir-ap-mtr
 excerpt: 'Massive Tool Retrieval (MTR), Query‑Tool Alignment (QTA), Massive Tool Retrieval Benchmark, DPO'
 date: 2024-10-08
 venue: 'SIGIR-AP'
