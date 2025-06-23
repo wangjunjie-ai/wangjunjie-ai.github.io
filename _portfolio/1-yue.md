@@ -1,6 +1,6 @@
 ---
 title: "YUE开源音乐大模型"
-excerpt: "YuE: Scaling Open Foundation Models for Long-Form Music Generation<br/><img src='/images/projects/yue/yue-intro.png' width='60%'>"
+excerpt: "<img src='https://img.shields.io/github/stars/multimodal-art-projection/YuE?style=social' alt='GitHub stars'> YuE: Scaling Open Foundation Models for Long-Form Music Generation<br/><img src='/images/projects/yue/yue-intro.png' width='60%'>"
 collection: portfolio
 ---
 
