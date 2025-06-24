@@ -20,16 +20,17 @@ author_profile: true
   {% for category in site.publication_category %}
     {% assign category_name = category[0] %}
     {% assign publications_in_category = site.publications | where: "category", category_name %}
-    <h2>{{ category[1].title }} ({{ publications_in_category | size }})</h2>
-    <hr />
-    {% for post in publications_in_category reversed %}
-      {% include archive-single.html %}
-    {% endfor %}
+    {% if publications_in_category.size > 0 %}
+      <h2>{{ category[1].title }} ({{ publications_in_category | size }})</h2>
+      <hr />
+      {% for post in publications_in_category reversed %}
+        {% include archive-single.html %}
+      {% endfor %}
+    {% endif %}
   {% endfor %}
 {% else %}
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
 
