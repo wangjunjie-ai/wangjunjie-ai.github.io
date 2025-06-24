@@ -32,6 +32,8 @@ To build AI systems that serve humanity by leveraging information from a human p
 
 Details in [Publications Page](https://wangjunjie-ai.github.io/publications/)
 
+<p>Total Publications: {{ site.publications | size }}</p>
+
 - ⭐: Co-first Author
 - 🚩: Corresponding Author
 - 💭: Under Review
