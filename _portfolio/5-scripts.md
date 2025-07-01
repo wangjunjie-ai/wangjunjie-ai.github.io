@@ -1,6 +1,6 @@
 ---
 title: "一些自动脚本"
-excerpt: "记录一些简单的脚本项目'>"
+excerpt: "记录一些简单的脚本项目"
 collection: portfolio
 ---
 
