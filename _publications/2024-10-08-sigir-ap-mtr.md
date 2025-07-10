@@ -1,5 +1,5 @@
 ---
-title: "⭐ [SIGIR-AP 2024] Data-Efficient Massive Tool Retrieval: A Reinforcement Learning Approach for Query-Tool Alignment with Language Models"
+title: "⭐ [SIGIR-AP 2024 最佳论文提名] Data-Efficient Massive Tool Retrieval: A Reinforcement Learning Approach for Query-Tool Alignment with Language Models"
 collection: publications
 category: conferences
 permalink: /publication/2024-10-08-sigir-ap-mtr
@@ -23,6 +23,8 @@ slidesurl: # empyty
 Arxiv地址：[https://arxiv.org/abs/2410.03212](https://arxiv.org/abs/2410.03212)
 
 SIGIR-AP 2024：[https://dl.acm.org/doi/10.1145/3673791.3698429](https://dl.acm.org/doi/10.1145/3673791.3698429)
+
+SIGIR-AP 2024 Best Paper Shortlisted Nominees: [https://www.sigir-ap.org/sigir-ap-2024/bestpapers/](https://www.sigir-ap.org/sigir-ap-2024/bestpapers/)
 
 ## 背景  
 
@@ -60,6 +62,10 @@ SIGIR-AP 2024：[https://dl.acm.org/doi/10.1145/3673791.3698429](https://dl.acm.
 - 在 Top‑5 和 Top‑10 检索中，QTA 相比最先进的方法，Sufficiency@k 指标最高提升 **93.28%**
 - 在极低标注场景（如仅 1‑Shot），仍能实现 **78.53%** 的 Sufficiency@k 提升
 - 交叉子集合泛化表现良好：在一个子集上训练后，迁移到其他子集也表现稳定，体现了强泛化能力
+
+<p align=center>
+	<img src="/images/papers/2024-sigir-ap/mtr-3.png" width="100%">
+</p>
 
 ## 总结  
 本文针对 “大规模工具检索” 的新兴问题，提出并验证了以下关键贡献：
