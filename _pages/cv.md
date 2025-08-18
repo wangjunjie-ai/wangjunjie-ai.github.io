@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 教育经历 Education
 ======
 * **Ph.D in CS, Waseda University, 2021 - 2024**
