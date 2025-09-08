@@ -16,17 +16,19 @@ Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明
 
 🌌 **Long-term Goal / 长期目标**
 
-To build AI systems that serve humanity by leveraging information from a human perspective.
+To create AI systems that emulate the principles of human reasoning and learning, allowing them to interact with the world and assist humanity in a safe, transparent, and beneficial manner.
 
-利用人类视角的信息构建一个为人类服务的 AI 系统。
+创造能够模拟人类推理与学习原理的 AI 系统，使其能与世界交互，并以安全、透明和有益的方式协助人类。
 
 🔎 **Research Interests / 研究兴趣**
 
-- Controllable reasoning / 可控推理
-- Multimodal large models / 多模态大模型
-- Natural language processing / 自然语言处理
-- Human value alignment / 人类价值观对齐
-- Embodied intelligence / 具身智能
+1. Grounding in Reality: The Foundation of Understanding / 扎根现实：理解的基础
+   - Embodied and Multimodal Learning / 具身与多模态学习
+2. Human-like Cognition: The Core of Reasoning / 类人认知：推理的核心
+  - Cognitive-inspired Reasoning and Language / 认知启发的推理与语言
+  - Controllable and Explainable Generation / 可控与可解释生成
+3. Alignment with Humanity: The Ethical Framework / 对齐人类：伦理的框架
+  - Value Alignment and Social Norms / 价值观对齐与社会规范
 
 ## Publications
 

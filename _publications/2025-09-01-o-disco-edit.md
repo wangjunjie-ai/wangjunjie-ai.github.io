@@ -1,5 +1,5 @@
 ---
-title: "🚩 O-DisCo-Edit: Object Distortion Control for Unified Realistic Video Editing"
+title: "🚩💭 O-DisCo-Edit: Object Distortion Control for Unified Realistic Video Editing"
 collection: publications
 category: arxiv
 permalink: /publication/2025-09-01-o-disco-edit
