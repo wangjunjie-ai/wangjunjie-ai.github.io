@@ -16,19 +16,24 @@ Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明
 
 🌌 **Long-term Goal / 长期目标**
 
-To create AI systems that emulate the principles of human reasoning and learning, allowing them to interact with the world and assist humanity in a safe, transparent, and beneficial manner.
+🧠 Thought Patterns / 思维范式
 
-创造能够模拟人类推理与学习原理的 AI 系统，使其能与世界交互，并以安全、透明和有益的方式协助人类。
+To build AI guided by the principles of human thought patterns, enabling machines to reason, create, and collaborate in a transparent and verifiable manner.
+
+致力于构建以人类思维范式为指导的AI，使其能够以透明、可验证的方式进行推理、创造与协作。
 
 🔎 **Research Interests / 研究兴趣**
 
-1. Grounding in Reality: The Foundation of Understanding / 扎根现实：理解的基础
-   - Embodied and Multimodal Learning / 具身与多模态学习
-2. Human-like Cognition: The Core of Reasoning / 类人认知：推理的核心
-  - Cognitive-inspired Reasoning and Language / 认知启发的推理与语言
-  - Controllable and Explainable Generation / 可控与可解释生成
-3. Alignment with Humanity: The Ethical Framework / 对齐人类：伦理的框架
-  - Value Alignment and Social Norms / 价值观对齐与社会规范
+1. Deconstructing Thought Patterns / 解构思维范式
+  - Embodied & Multimodal Grounding / 具身与多模态基础
+  - Structured & Verifiable Reasoning / 结构化与可验证推理
+  - Cross-Modal Cognitive Patterns / 跨模态认知范式
+2. Implementing Thought Patterns / 实现思维范式
+  - Creative & Narrative Generation / 创造性与叙事生成
+  - Logical Patterns in Code / 代码中的逻辑范式
+3. Aligning Thought Patterns / 对齐思维范式
+  - Controllable & Editable Generation / 可控与可编辑生成
+  - Safe & Reliable Reasoning / 安全与可靠推理
 
 ## Publications
 
