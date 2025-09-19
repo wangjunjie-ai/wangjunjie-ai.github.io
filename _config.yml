@@ -75,6 +75,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : "wang-junjie"
+  huggingface      : "https://huggingface.co/wanng"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

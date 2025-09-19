@@ -159,6 +159,13 @@
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
+      {% if author.huggingface %}
+        <li>
+          <a href="{{ author.huggingface }}" rel="nofollow noopener noreferrer" target="_blank">
+            <i class="ai ai-hugging-face ai-fw icon-pad-right"></i>Hugging Face
+          </a>
+        </li>
+      {% endif %}
     </ul>
   </div>
 </div>
