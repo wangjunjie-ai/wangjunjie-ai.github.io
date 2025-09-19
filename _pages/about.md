@@ -9,8 +9,8 @@ redirect_from:
 
 <img src="/images/avatar-logo.jpg" width="10%">
 
-**Junjie Wang (王军杰)** is currently a **postdoctoral researcher** at the [IIGROUP Lab](https://sites.google.com/view/iigroup-thu), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by **Prof. Yujiu Yang**. 
-His research interests include natural language processing, multimodal reasoning, and embodied intelligence. He received his Ph.D. in Engineering from [Waseda University](https://www.waseda.jp/top/en/), under the supervision of **Prof. Tetsuya Sakai**.
+**Junjie Wang (王军杰)** is currently a **postdoctoral researcher** at the [IIGROUP Lab](https://iigroup.github.io/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [**Prof. Yujiu Yang**](https://iigroup.github.io/about/). 
+His research interests include natural language processing, multimodal reasoning, and embodied intelligence. He received his Ph.D. in Engineering from [Waseda University](https://www.waseda.jp/top/en/), under the supervision of [**Prof. Tetsuya Sakai**](http://sakailab.com/tetsuya/).
 
 Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明来意**)
 
