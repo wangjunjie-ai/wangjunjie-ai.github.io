@@ -60,11 +60,19 @@ redirect_from:
 专业服务 Professional Services
 ======
 
+**高级成员**
+  * AC区域主席：ACL ARR 2025 October
+  * Senior PC Member：WSDM 2026
+
 **审稿员**
-  * 会议: SIGIR, ACL, EMNLP, ACM MM, CVPR, CoLM
+  * 会议: SIGIR, ACL, EMNLP, ACM MM, CVPR, CoLM, WSDM
   * 期刊: TCSVT
 
 **组织者**
+
+* [REV-RAG Workshop](http://sakailab.com/brev-rag/)
+
+主要2目标是推动对 RAG 系统的评估，使其超越传统的评估标准（如相关性、正确性或有根据性）。它旨在鼓励和探讨其他维度的评估标准，例如：群体公平性 (group fairness),谦逊度 (modesty)（即 RAG 系统对其回答所附加的置信度分数是否与回答的准确性一致）,以及其他在传统评估中可能被忽视的方面。
 
 * [NTCIR 2022 WWW-4 Task](https://research.nii.ac.jp/ntcir/ntcir-16/organizers.html)
 
