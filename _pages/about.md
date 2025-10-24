@@ -37,9 +37,9 @@ To build AI guided by the principles of human thought patterns, enabling machine
   
 ✒️ **Recent Professional Services / 最近的专业服务**
 
-- Area Chair | ACL ARR 2025 October
-- Senior PC member | WSDM 2026
-- Workshop Organiser | SIGIR-AP 2025 BREV-RAG Workshop
+- Area Chair: ACL ARR 2025 October
+- Senior PC member: WSDM 2026
+- Workshop Organiser: SIGIR-AP 2025 BREV-RAG Workshop
 
 ## Publications
 
