@@ -1,11 +1,11 @@
 ---
-title: "🚩💭 O-DisCo-Edit: Object Distortion Control for Unified Realistic Video Editing"
+title: "🚩 [AAAI 2026 (Oral)] O-DisCo-Edit: Object Distortion Control for Unified Realistic Video Editing"
 collection: publications
 category: arxiv
 permalink: /publication/2025-09-01-o-disco-edit
 excerpt: 'Video Editing, Diffusion Models, Unified Control Signal, Object Distortion Control'
-date: 2025-09-01
-venue: 'Arxiv'
+date: 2026-01-20
+venue: 'AAAI 2026'
 paperurl: 'https://arxiv.org/abs/2509.01596'
 bibtexurl: # empty
 citation: # empyty
@@ -22,6 +22,8 @@ slidesurl: # empyty
 项目主页: [https://cyqii.github.io/O-DisCo-Edit.github.io/](https://cyqii.github.io/O-DisCo-Edit.github.io/)
 
 Arxiv地址：[https://arxiv.org/abs/2509.01596](https://arxiv.org/abs/2509.01596)
+
+**Accepted by AAAI 2026 (Oral)**
 
 <p align=center>
 	<img src="/images/papers/2024-o-dico/o-disco-1.png" width="100%">
