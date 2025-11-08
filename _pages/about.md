@@ -34,6 +34,12 @@ To build AI guided by the principles of human thought patterns, enabling machine
 3. Aligning Thought Patterns / 对齐思维范式
   - Controllable & Editable Generation / 可控与可编辑生成
   - Safe & Reliable Reasoning / 安全与可靠推理
+  
+✒️ **Recent Professional Services / 最近的专业服务**
+
+- Area Chair: ACL ARR 2025 October
+- Senior PC member: WSDM 2026
+- Workshop Organiser: SIGIR-AP 2025 BREV-RAG Workshop
 
 ## Publications
 
