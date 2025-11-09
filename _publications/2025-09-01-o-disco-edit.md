@@ -1,11 +1,11 @@
 ---
 title: "🚩 [AAAI 2026 (Oral)] O-DisCo-Edit: Object Distortion Control for Unified Realistic Video Editing"
 collection: publications
-category: arxiv
+category: conferences
 permalink: /publication/2025-09-01-o-disco-edit
 excerpt: 'Video Editing, Diffusion Models, Unified Control Signal, Object Distortion Control'
 date: 2026-01-20
-venue: 'AAAI 2026'
+venue: 'AAAI'
 paperurl: 'https://arxiv.org/abs/2509.01596'
 bibtexurl: # empty
 citation: # empyty
