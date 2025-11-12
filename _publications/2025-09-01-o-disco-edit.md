@@ -26,14 +26,14 @@ Arxiv地址：[https://arxiv.org/abs/2509.01596](https://arxiv.org/abs/2509.0159
 **Accepted by AAAI 2026 (Oral)**
 
 <p align=center>
-	<img src="/images/papers/2024-o-dico/o-disco-1.png" width="100%">
+	<img src="/images/papers/2025-o-dico/o-disco-1.png" width="100%">
 </p>
 
 
 ## 1. 背景与动机 (Background & Motivation)
 
 <p align=center>
-	<img src="/images/papers/2024-o-dico/o-disco-2.png" width="70%">
+	<img src="/images/papers/2025-o-dico/o-disco-2.png" width="70%">
 </p>
 
 * **问题定义：** 论文旨在解决现有视频编辑方法中的一个核心挑战：如何创建一个**统一、高效且灵活**的框架，以精确控制多样化的视频编辑任务（如对象移除、替换、风格迁移等），同时避免为不同任务设计复杂的、独立的控制信号和训练流程。
@@ -45,7 +45,7 @@ Arxiv地址：[https://arxiv.org/abs/2509.01596](https://arxiv.org/abs/2509.0159
 ## 2. 核心方法 (Core Methodology)
 
 <p align=center>
-	<img src="/images/papers/2024-o-dico/o-disco-3.png" width="100%">
+	<img src="/images/papers/2025-o-dico/o-disco-3.png" width="100%">
 </p>
 
 * **整体架构：** O-DisCo-Edit 是一个基于首帧引导的视频编辑框架。其核心由三个关键模块构成：
@@ -76,7 +76,7 @@ Arxiv地址：[https://arxiv.org/abs/2509.01596](https://arxiv.org/abs/2509.0159
 ## 4. 实验结果与分析 (Results & Analysis)
 
 <p align=center>
-	<img src="/images/papers/2024-o-dico/o-disco-4.png" width="100%">
+	<img src="/images/papers/2025-o-dico/o-disco-4.png" width="100%">
 </p>
 
 
@@ -92,11 +92,11 @@ Arxiv地址：[https://arxiv.org/abs/2509.01596](https://arxiv.org/abs/2509.0159
 * **案例分析 (Case Study)：** 论文中的图例提供了丰富的定性对比。例如，在“北极熊替换”任务中，其他模型出现了“三只耳朵”等解剖学错误或运动不连贯的问题，而 O-DisCo-Edit 的结果在形态和动态上都更为合理。这些案例直观地展示了其在生成质量和细节保真度上的优势。
 
 <p align=center>
-	<img src="/images/papers/2024-o-dico/o-disco-5.png" width="100%">
+	<img src="/images/papers/2025-o-dico/o-disco-5.png" width="100%">
 </p>
 
 <p align=center>
-	<img src="/images/papers/2024-o-dico/o-disco-6.png" width="100%">
+	<img src="/images/papers/2025-o-dico/o-disco-6.png" width="100%">
 </p>
 
 ## 5. 总结与贡献 (Conclusion & Contribution)
