@@ -16,7 +16,7 @@ Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明
 
 🌌 **Long-term Goal / 长期目标**
 
-🧠 Thought Patterns / 思维范式
+-> Thought Patterns / 思维范式 🧠
 
 To build AI guided by the principles of human thought patterns, enabling machines to reason, create, and collaborate in a transparent and verifiable manner.
 
@@ -37,9 +37,9 @@ To build AI guided by the principles of human thought patterns, enabling machine
   
 ✒️ **Recent Professional Services / 最近的专业服务**
 
-- Area Chair: ACL ARR 2025 October
+- Area Chair: ACL ARR 2025 October (EACL 2026)
 - Senior PC member: WSDM 2026
-- Workshop Organiser: SIGIR-AP 2025 BREV-RAG Workshop
+- Workshop Organiser: [SIGIR-AP 2025 BREV-RAG Workshop](https://dl.acm.org/doi/10.1145/3767695.3769523)
 
 ## Publications
 
