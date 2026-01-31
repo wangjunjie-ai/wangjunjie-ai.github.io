@@ -17,9 +17,9 @@ Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明
 
 📰 **News / 最近**
 
-- ROCO@AAAI2026 决赛冠军: [URL](https://wangjunjie-ai.github.io/portfolio/8-roco/)
-- [01/2026] 🎉 1 paper are accepted to ICLR 2026 !
-- [11/2025] 🎉 1 paper (Oral) are accepted to AAAI 2026 !
+- [01/2026] 🎉 ROCO@AAAI2026 决赛冠军: [URL](https://wangjunjie-ai.github.io/portfolio/8-roco/)
+- [01/2026] 📜 1 paper are accepted to ICLR 2026 !
+- [11/2025] 📜 1 paper (Oral) are accepted to AAAI 2026 !
 
 🌌 **Long-term Goal / 长期目标**
 
