@@ -3,7 +3,7 @@ title: "⭐ Fengshenbang 1.0: Being the Foundation of Chinese Cognitive Intellig
 collection: publications
 category: arxiv
 permalink: /publication/2022-09-07-fengshenbang
-excerpt: 'Massive Tool Retrieval (MTR), Query‑Tool Alignment (QTA), Massive Tool Retrieval Benchmark, DPO'
+excerpt: 'Chinese Pre-trained Models, Foundation Models, Open-Source Ecosystem, Cognitive Intelligence'
 date: 2022-09-07 
 venue: 'Arxiv'
 paperurl: 'https://arxiv.org/abs/2209.02970'
