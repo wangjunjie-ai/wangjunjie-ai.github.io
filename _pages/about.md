@@ -14,12 +14,13 @@ His research interests include natural language processing, multimodal reasoning
 
 Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明来意**)
 
-
 📰 **News / 最近**
 
+- [04/2026] 📜 2 papers are accepted to ACL 2026 !
+- [03/2026] 📜 1 paper is accepted to TMLR !
 - [01/2026] 🎉 ROCO@AAAI2026 决赛冠军: [URL](https://wangjunjie-ai.github.io/portfolio/8-roco/)
-- [01/2026] 📜 1 paper are accepted to ICLR 2026 !
-- [11/2025] 📜 1 paper (Oral) are accepted to AAAI 2026 !
+- [01/2026] 📜 1 paper is accepted to ICLR 2026 !
+- [11/2025] 📜 1 paper (Oral) is accepted to AAAI 2026 !
 
 🌌 **Long-term Goal / 长期目标**
 
