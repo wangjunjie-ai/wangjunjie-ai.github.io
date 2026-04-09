@@ -19,7 +19,7 @@ Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明
 📰 **News / 最近**
 
 - [04/2026] 📜 2 papers are accepted to ACL 2026 !
-- [03/2026] 📜 1 paper is accepted to TMLR !
+- [03/2026] 📜 1 paper is accepted to TMLR ! 获选CAAI-腾讯犀牛鸟研究计划 !
 - [01/2026] 🎉 ROCO@AAAI2026 决赛冠军: [URL](https://wangjunjie-ai.github.io/portfolio/8-roco/)
 - [01/2026] 📜 1 paper is accepted to ICLR 2026 !
 - [11/2025] 📜 1 paper (Oral) is accepted to AAAI 2026 !
