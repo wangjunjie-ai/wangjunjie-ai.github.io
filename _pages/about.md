@@ -18,6 +18,7 @@ Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明
 
 📰 **News / 最近**
 
+- [04/2026] 📜 1 paper is accepted to ICML 2026 !
 - [04/2026] 📜 2 papers are accepted to ACL 2026 !
 - [03/2026] 📜 1 paper is accepted to TMLR ! 获选CAAI-腾讯犀牛鸟研究计划 !
 - [01/2026] 🎉 ROCO@AAAI2026 决赛冠军: [URL](https://wangjunjie-ai.github.io/portfolio/8-roco/)
@@ -47,7 +48,7 @@ My long-term goal is to engineer (self-evolving) AGI as a form of Practical Epis
 
 ✒️ **Recent Professional Services / 最近的专业服务**
 
-- Area Chair: ACL ARR 2025 October (EACL 2026); ACL ARR 2026 January (ACL 2026).
+- Area Chair: ACL ARR 2025 October (EACL); ACL ARR 2026 January (ACL); ACL ARR 2026 March (EMNLP).
 - Senior PC member: WSDM 2026
 - Workshop Organiser: [SIGIR-AP 2025 BREV-RAG Workshop](https://dl.acm.org/doi/10.1145/3767695.3769523)
 
