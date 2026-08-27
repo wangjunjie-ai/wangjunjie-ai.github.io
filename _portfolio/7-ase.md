@@ -14,8 +14,6 @@ A.S.E（AI Code Generation Security Evaluation，AICGSecEval）是一个**仓库
 
 与片段级（snippet-level）安全基准相比，A.S.E 强调“**项目上下文与跨文件依赖**”对安全修复的决定性影响：任务由真实开源仓库与 CVE 补丁线索构建，通过自动化上下文抽取模拟 AI IDE/编码助手的工作流，并以可复现的工具链对生成后的仓库进行安全与质量验证，从而降低人工评审与 LLM-as-a-judge 的不稳定性。
 
-D:\ddownload\software\wangjunjie-ai.github.io\images\projects\ase\1.png
-
 <p align=center>
 	<img src="/images/projects/ase/2.png" width="80%">
 </p>
@@ -44,6 +42,3 @@ D:\ddownload\software\wangjunjie-ai.github.io\images\projects\ase\1.png
 - **CVE 驱动的安全敏感场景**：任务来源与风险点具备可验证的现实对应关系，面向真实安全修复与安全生成需求。
 - **可复现、可审计的评测闭环**：自动化、可复跑的评测流程减少主观性，提高学术可比性与工业可落地性。
 - **面向“编码 Agent”扩展**：除模型本体外，也评估工具化/代理化编程系统，更贴近现代 AI 编程形态。
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Tencent/AICGSecEval&type=date&legend=top-left)](https://www.star-history.com/#Tencent/AICGSecEval&type=date&legend=top-left)
