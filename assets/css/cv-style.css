@@ -234,7 +234,7 @@
   }
 }
 
-/* CV education cards — scoped so other archive pages keep their original style. */
+/* CV entry cards — scoped so other archive pages keep their original style. */
 .cv-page {
   --cv-accent: #4299e1;
   --cv-accent-strong: #2b6cb0;
@@ -244,12 +244,12 @@
   margin: 0 0 2.5rem;
 }
 
-.cv-education-list {
+.cv-entry-list {
   display: grid;
   gap: 1rem;
 }
 
-.cv-education-card {
+.cv-entry-card {
   display: grid;
   grid-template-columns: 72px minmax(0, 1fr);
   gap: 1.25rem;
@@ -265,14 +265,14 @@
   transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
 }
 
-.cv-education-card:hover {
+.cv-entry-card:hover {
   transform: translateY(-2px);
   border-color: rgba(66, 153, 225, 0.48);
   border-left-color: var(--cv-accent-strong);
   box-shadow: 0 8px 22px rgba(15, 23, 42, 0.12);
 }
 
-.cv-education-logo {
+.cv-entry-logo {
   display: flex;
   width: 72px;
   height: 72px;
@@ -286,35 +286,35 @@
   box-shadow: 0 3px 9px rgba(15, 23, 42, 0.1);
 }
 
-.cv-education-logo img {
+.cv-entry-logo img {
   display: block;
   width: 100%;
   height: 100%;
   object-fit: contain;
 }
 
-.cv-education-content {
+.cv-entry-content {
   min-width: 0;
 }
 
-.cv-education-content h3 {
+.cv-entry-content h3 {
   margin: 0 0 0.25rem;
   color: var(--global-text-color);
   font-size: 1rem;
   line-height: 1.25;
 }
 
-.cv-education-content p {
+.cv-entry-content p {
   margin: 0.25rem 0;
 }
 
-.cv-education-content a {
+.cv-entry-content a {
   color: var(--cv-accent-strong);
   font-weight: 600;
   text-decoration: none;
 }
 
-.cv-education-content a:hover {
+.cv-entry-content a:hover {
   text-decoration: underline;
 }
 
@@ -344,33 +344,124 @@
   border-top: 1px dashed var(--global-border-color);
 }
 
+.cv-entry-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem;
+  align-items: center;
+  margin-top: 0.55rem !important;
+  font-size: 0.9rem;
+}
+
+.cv-entry-media {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px dashed var(--global-border-color);
+}
+
+.cv-entry-media-single {
+  grid-template-columns: minmax(0, 1fr);
+}
+
+.cv-entry-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 320px;
+  object-fit: contain;
+  border: 1px solid var(--global-border-color);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.cv-service-list {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.cv-service-item {
+  display: grid;
+  grid-template-columns: minmax(145px, 180px) minmax(0, 1fr);
+  gap: 1rem;
+  align-items: start;
+  margin: 0;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--global-border-color);
+  border-left: 3px solid var(--cv-accent);
+  border-radius: 8px;
+  background: linear-gradient(110deg, var(--cv-card-bg) 0%, var(--cv-card-tint) 100%);
+}
+
+.cv-service-item h3 {
+  margin: 0;
+  color: var(--global-text-color);
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+
+.cv-service-item h3 span {
+  color: var(--global-text-color-light);
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.cv-service-item p {
+  margin: 0;
+  color: var(--global-text-color);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.cv-service-item a {
+  color: var(--cv-accent-strong);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.cv-service-item a:hover {
+  text-decoration: underline;
+}
+
 @media (max-width: 600px) {
-  .cv-education-card {
+  .cv-entry-card {
     grid-template-columns: 1fr;
     gap: 0.85rem;
     padding: 1rem;
     text-align: center;
   }
 
-  .cv-education-logo {
+  .cv-entry-logo {
     width: 68px;
     height: 68px;
     margin: 0 auto;
   }
+
+  .cv-entry-media {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .cv-service-item {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.35rem;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
-  .cv-education-card {
+  .cv-entry-card {
     transition: none;
   }
 
-  .cv-education-card:hover {
+  .cv-entry-card:hover {
     transform: none;
   }
 }
 
 @media print {
-  .cv-education-card {
+  .cv-entry-card,
+  .cv-service-item {
     break-inside: avoid;
     box-shadow: none;
   }

@@ -12,12 +12,12 @@ redirect_from:
 ## 研究与教育经历 Research & Education
 
 <section class="cv-page cv-education" aria-label="研究与教育经历 Research and Education">
-  <div class="cv-education-list">
-    <article class="cv-education-card">
-      <div class="cv-education-logo">
+  <div class="cv-entry-list">
+    <article class="cv-entry-card">
+      <div class="cv-entry-logo">
         <img src="/images/cv/education/tsinghua.jpg" alt="Tsinghua University logo" decoding="async">
       </div>
-      <div class="cv-education-content">
+      <div class="cv-entry-content">
         <h3>Tsinghua University</h3>
         <p class="cv-degree">Postdoctoral Researcher</p>
         <p class="cv-date">2025.01 – Present</p>
@@ -26,11 +26,11 @@ redirect_from:
       </div>
     </article>
 
-    <article class="cv-education-card">
-      <div class="cv-education-logo">
+    <article class="cv-entry-card">
+      <div class="cv-entry-logo">
         <img src="/images/cv/education/waseda.jpg" alt="Waseda University emblem" decoding="async">
       </div>
-      <div class="cv-education-content">
+      <div class="cv-entry-content">
         <h3>Waseda University</h3>
         <p class="cv-degree">Ph.D. in Computer Science</p>
         <p class="cv-date">2021 – 2024</p>
@@ -44,11 +44,11 @@ redirect_from:
       </div>
     </article>
 
-    <article class="cv-education-card">
-      <div class="cv-education-logo">
+    <article class="cv-entry-card">
+      <div class="cv-entry-logo">
         <img src="/images/cv/education/waseda.jpg" alt="Waseda University emblem" loading="lazy" decoding="async">
       </div>
-      <div class="cv-education-content">
+      <div class="cv-entry-content">
         <h3>Waseda University</h3>
         <p class="cv-degree">M.S. in Computer Science</p>
         <p class="cv-date">2019 – 2021</p>
@@ -58,11 +58,11 @@ redirect_from:
       </div>
     </article>
 
-    <article class="cv-education-card">
-      <div class="cv-education-logo">
+    <article class="cv-entry-card">
+      <div class="cv-entry-logo">
         <img src="/images/cv/education/waseda.jpg" alt="Waseda University emblem" loading="lazy" decoding="async">
       </div>
-      <div class="cv-education-content">
+      <div class="cv-entry-content">
         <h3>Waseda University</h3>
         <p class="cv-degree">B.S. in Computer Science</p>
         <p class="cv-date">2015 – 2019</p>
@@ -74,69 +74,104 @@ redirect_from:
 </section>
 
 ## 履历 Employment History
-* **2023.10 - 2024.02: 研究助理**
-  * Hong Kong University of Science and Technology (HKUST)
-  * 指导老师: 付杰
-  * 科研合作, 助团队管理, 日常事务
 
-* **2021.05 - 2021.10: 算法实习生**
-  * 粤港澳大湾区数字经济研究院 CCNL-认知计算与自然语言研究中心
-  * 指导老师: 张家兴, 甘如饴
-  * 主要工作内容：致力于研究AIGC相关的基础模型,比如，统一的语言模型、多模态大模型。如，太乙系列大模型，二郎神系列等。
-  * Paper：https://arxiv.org/abs/2209.02970
-  * Github: [Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)
-  * Huggingface: https://huggingface.co/IDEA-CCNL
+<section class="cv-page cv-employment" aria-label="履历 Employment History">
+  <div class="cv-entry-list">
+    <article class="cv-entry-card">
+      <div class="cv-entry-logo">
+        <img src="/images/cv/employment/hkust.jpg" alt="HKUST logo" decoding="async">
+      </div>
+      <div class="cv-entry-content">
+        <h3>The Hong Kong University of Science and Technology (HKUST)</h3>
+        <p class="cv-degree">研究助理 Research Assistant</p>
+        <p class="cv-date">2023.10 – 2024.02</p>
+        <p class="cv-advisor"><strong>Advisor:</strong> 付杰</p>
+        <p class="cv-focus"><strong>Work:</strong> 科研合作、团队管理支持与日常事务协作</p>
+      </div>
+    </article>
 
-<p align=center>
-  <img src="/images/cv/fsb-project.png" width="80%">
-</p>
+    <article class="cv-entry-card">
+      <div class="cv-entry-logo">
+        <img src="/images/cv/employment/idea.jpg" alt="International Digital Economy Academy logo" loading="lazy" decoding="async">
+      </div>
+      <div class="cv-entry-content">
+        <h3>粤港澳大湾区数字经济研究院（IDEA）</h3>
+        <p class="cv-degree">算法实习生 · CCNL 认知计算与自然语言研究中心</p>
+        <p class="cv-date">2021.05 – 2021.10</p>
+        <p class="cv-advisor"><strong>Advisors:</strong> 张家兴、甘如饴</p>
+        <p class="cv-focus"><strong>Work:</strong> 研究 AIGC 基础模型，包括统一语言模型与多模态大模型，并参与太乙、二郎神等系列模型建设。</p>
+        <p class="cv-entry-links">
+          <a href="https://arxiv.org/abs/2209.02970">Paper</a>
+          <span aria-hidden="true">·</span>
+          <a href="https://github.com/IDEA-CCNL/Fengshenbang-LM">GitHub</a>
+          <span aria-hidden="true">·</span>
+          <a href="https://huggingface.co/IDEA-CCNL">Hugging Face</a>
+        </p>
+        <div class="cv-entry-media cv-entry-media-single">
+          <img src="/images/cv/fsb-project.png" alt="Fengshenbang-LM project overview" loading="lazy" decoding="async">
+        </div>
+      </div>
+    </article>
 
-* **2021.05 - 2021.10: 策略算法实习生**
-  * 深圳市腾讯计算机系统有限公司 CDG-广告产品技术部
-  * 指导老师: 杨建博
-  * 主要工作内容：多模态广告推荐相关的研究 (多模态图神经网络, 已中ACM MM 2022)
-
-<p align="center">
-  <img src="/images/cv/c1.png" width="40%">
-  <img src="/images/cv/c2.png" width="40%">
-</p>
+    <article class="cv-entry-card">
+      <div class="cv-entry-logo">
+        <img src="/images/cv/employment/tencent.jpg" alt="Tencent logo" loading="lazy" decoding="async">
+      </div>
+      <div class="cv-entry-content">
+        <h3>Tencent</h3>
+        <p class="cv-degree">策略算法实习生 · CDG 广告产品技术部</p>
+        <p class="cv-date">2021.05 – 2021.10</p>
+        <p class="cv-advisor"><strong>Advisor:</strong> 杨建博</p>
+        <p class="cv-focus"><strong>Work:</strong> 多模态广告推荐与多模态图神经网络研究，相关工作发表于 ACM MM 2022。</p>
+        <div class="cv-entry-media">
+          <img src="/images/cv/c1.png" alt="Tencent multimodal advertising research figure 1" loading="lazy" decoding="async">
+          <img src="/images/cv/c2.png" alt="Tencent multimodal advertising research figure 2" loading="lazy" decoding="async">
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
 
 ## 专业服务 Professional Services
 
-**高级成员**
-  * AC区域主席：ACL ARR 2025 October
-  * Senior PC Member：WSDM 2026
+<section class="cv-page cv-services" aria-label="专业服务 Professional Services">
+  <div class="cv-service-list">
+    <article class="cv-service-item">
+      <h3>领域主席<br><span>Area Chair</span></h3>
+      <p>ACL Rolling Review（ARR）：2025 年 10 月周期（EACL 2026）；2026 年 1 月周期（ACL 2026）；2026 年 3 月与 5 月周期（EMNLP 2026）。</p>
+    </article>
 
-**审稿员**
-  * 会议: SIGIR, ACL, EMNLP, ACM MM, CVPR, CoLM, WSDM
-  * 期刊: TCSVT
+    <article class="cv-service-item">
+      <h3>金牌审稿人<br><span>Golden Reviewer</span></h3>
+      <p>ICML 2026 Golden Reviewer。</p>
+    </article>
 
-**组织者**
+    <article class="cv-service-item">
+      <h3>研讨会组织者<br><span>Workshop Organizer</span></h3>
+      <p><a href="https://www.sigir-ap.org/sigir-ap-2025/workshops/index.html">BREV-RAG: Beyond Relevance-based EValuation of RAG Systems</a>，SIGIR-AP 2025 Workshop。</p>
+    </article>
 
-* [REV-RAG Workshop](http://sakailab.com/brev-rag/)
+    <article class="cv-service-item">
+      <h3>程序委员会委员<br><span>Program Committee</span></h3>
+      <p>WSDM 2026（高级程序委员会委员）；SIGIR 2025；SIGIR 2024。</p>
+    </article>
 
-主要2目标是推动对 RAG 系统的评估，使其超越传统的评估标准（如相关性、正确性或有根据性）。它旨在鼓励和探讨其他维度的评估标准，例如：群体公平性 (group fairness),谦逊度 (modesty)（即 RAG 系统对其回答所附加的置信度分数是否与回答的准确性一致）,以及其他在传统评估中可能被忽视的方面。
+    <article class="cv-service-item">
+      <h3>会议 / 期刊审稿人<br><span>Reviewer</span></h3>
+      <p>AAAI 2026；ICML 2026；NeurIPS 2026；ACM MM 2026；ECCV 2026；CVPR 2026、2025；ACL 2026、2025、2024；EMNLP 2026、2025、2024、2023；COLM 2026、2025、2024；IEEE TCSVT。</p>
+    </article>
 
-* [NTCIR 2022 WWW-4 Task](https://research.nii.ac.jp/ntcir/ntcir-16/organizers.html)
+    <article class="cv-service-item">
+      <h3>教程讲者<br><span>Tutorial Speaker</span></h3>
+      <p><a href="https://dl2link.com/ncaa2023/program/tutorialSpeakers/#page-anchor">International Conference on Neural Computing for Advanced Applications（NCAA 2023）</a>。<br>教程主题：<em>Large Models Bridge the Digital-Real World Gap: From Understanding to Generation</em>。</p>
+    </article>
 
-这个任务主要是即时网络搜索（即针对给定的搜索主题进行网页的排名检索），其中包括中文和英文子任务。任务的目标是量化网络搜索技术的进步（以搜索引擎结果页面“首屏”的质量为标准），并解决可重复性（即某个研究小组X报告的结果能否在相同数据上被研究小组Y复现）和可再现性（即某个研究小组X报告的结果能否在不同数据上被研究小组Y再现）的问题。
-
-* [NTCIR 2025 FairWeb-2 Task](https://research.nii.ac.jp/ntcir/ntcir-18/organizers.html)
-
-该任务包含两个子任务：Web搜索(WS)子任务和对话式搜索(CS)子任务。主要研究问题：对于那些不如其他实体知名但同样相关的实体，能否在搜索结果中给予应有的曝光度？即，任务不仅关注相关性，还关注从多个角度确保搜索结果的公平曝光。与上一届（NTCIR-17 Fair Web-1）的主要区别：WS子任务新增了可复现性（reproducibility）要求。CS子任务是新引入的，用于处理文本对话场景下的搜索。目标：推动公平信息检索和推荐，鼓励参与者从不同视角考虑搜索公平性。
-
-**教程讲师 (Tutorial Speaker)**
-
-* NCAA 2023: [Large Models bridge the Digital-Real World Gap: from Understanding to Generation](https://dl2link.com/ncaa2023/program/tutorialSpeakers/#page-anchor)
-
-**特邀作者**
-
-* 2023.04 - 2024.02: [Readpaper](https://readpaper.com/new)
-* 论文阅读，学术趋势等
-
-<p align=center>
-  <img src="/images/cv/readpaper.png" width="80%">
-</p>
+    <article class="cv-service-item">
+      <h3>学会组织者<br><span>Community Organizer</span></h3>
+      <p>2024 年，<a href="https://research.nii.ac.jp/ntcir/ntcir-18/organizers.html">NII Testbeds and Community for Information Access Research（NTCIR-18）</a>。<br>2022 年，<a href="https://research.nii.ac.jp/ntcir/ntcir-16/organizers.html">NII Testbeds and Community for Information Access Research（NTCIR-16）</a>。</p>
+    </article>
+  </div>
+</section>
 
 ## Publications
 Details in [Publications Page](https://wangjunjie-ai.github.io/publications/)
