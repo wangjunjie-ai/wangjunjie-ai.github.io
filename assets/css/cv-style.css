@@ -244,35 +244,6 @@
   margin: 0 0 2.5rem;
 }
 
-.cv-section-heading {
-  position: relative;
-  margin: 1.5rem 0 1.35rem;
-  padding: 0 0 0.75rem;
-  border-bottom: 2px solid var(--global-border-color);
-  color: var(--global-text-color);
-  font-size: clamp(1.65rem, 3vw, 2.1rem);
-  line-height: 1.15;
-}
-
-.cv-section-heading::after {
-  content: "";
-  position: absolute;
-  bottom: -2px;
-  left: 0;
-  width: 5.5rem;
-  height: 3px;
-  border-radius: 999px;
-  background: linear-gradient(90deg, var(--cv-accent), #8bc8f2);
-}
-
-.cv-section-heading small {
-  margin-left: 0.45rem;
-  color: var(--global-text-color-light);
-  font-size: 0.48em;
-  font-weight: 600;
-  letter-spacing: 0.02em;
-}
-
 .cv-education-list {
   display: grid;
   gap: 1rem;
@@ -329,7 +300,7 @@
 .cv-education-content h3 {
   margin: 0 0 0.25rem;
   color: var(--global-text-color);
-  font-size: clamp(1.12rem, 2vw, 1.35rem);
+  font-size: 1rem;
   line-height: 1.25;
 }
 
@@ -349,13 +320,13 @@
 
 .cv-degree {
   color: var(--global-text-color-light);
-  font-size: 1.02rem;
+  font-size: 0.95rem;
   font-weight: 600;
 }
 
 .cv-date {
   color: var(--cv-accent-strong);
-  font-size: 0.96rem;
+  font-size: 0.9rem;
   font-weight: 650;
 }
 
@@ -363,8 +334,8 @@
 .cv-focus,
 .cv-thesis {
   color: var(--global-text-color);
-  font-size: 0.94rem;
-  line-height: 1.55;
+  font-size: 0.9rem;
+  line-height: 1.5;
 }
 
 .cv-thesis {
@@ -374,11 +345,6 @@
 }
 
 @media (max-width: 600px) {
-  .cv-section-heading small {
-    display: block;
-    margin: 0.35rem 0 0;
-  }
-
   .cv-education-card {
     grid-template-columns: 1fr;
     gap: 0.85rem;
@@ -390,10 +356,6 @@
     width: 68px;
     height: 68px;
     margin: 0 auto;
-  }
-
-  .cv-education-content h3 {
-    font-size: 1.15rem;
   }
 }
 

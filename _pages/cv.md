@@ -9,15 +9,26 @@ redirect_from:
 
 <link rel="stylesheet" href="{{ '/assets/css/cv-style.css' | relative_url }}">
 
-<section class="cv-page cv-education" aria-labelledby="cv-education-title">
-  <h2 class="cv-section-heading" id="cv-education-title">
-    <span>Education <small>教育经历</small></span>
-  </h2>
+## 研究与教育经历 Research & Education
 
+<section class="cv-page cv-education" aria-label="研究与教育经历 Research and Education">
   <div class="cv-education-list">
     <article class="cv-education-card">
       <div class="cv-education-logo">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Waseda_University_Ceremonial_Flag.png" alt="Waseda University emblem" decoding="async">
+        <img src="/images/cv/education/tsinghua.jpg" alt="Tsinghua University logo" decoding="async">
+      </div>
+      <div class="cv-education-content">
+        <h3>Tsinghua University</h3>
+        <p class="cv-degree">Postdoctoral Researcher</p>
+        <p class="cv-date">2025.01 – Present</p>
+        <p class="cv-advisor"><strong>Advisor:</strong> 杨余久（<a href="https://www.sigs.tsinghua.edu.cn/yyj_en/main.htm">Prof. Yujiu Yang</a>）</p>
+        <p class="cv-focus"><strong>Research:</strong> 可控生成与具身智能</p>
+      </div>
+    </article>
+
+    <article class="cv-education-card">
+      <div class="cv-education-logo">
+        <img src="/images/cv/education/waseda.jpg" alt="Waseda University emblem" decoding="async">
       </div>
       <div class="cv-education-content">
         <h3>Waseda University</h3>
@@ -35,7 +46,7 @@ redirect_from:
 
     <article class="cv-education-card">
       <div class="cv-education-logo">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Waseda_University_Ceremonial_Flag.png" alt="Waseda University emblem" loading="lazy" decoding="async">
+        <img src="/images/cv/education/waseda.jpg" alt="Waseda University emblem" loading="lazy" decoding="async">
       </div>
       <div class="cv-education-content">
         <h3>Waseda University</h3>
@@ -49,7 +60,7 @@ redirect_from:
 
     <article class="cv-education-card">
       <div class="cv-education-logo">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Waseda_University_Ceremonial_Flag.png" alt="Waseda University emblem" loading="lazy" decoding="async">
+        <img src="/images/cv/education/waseda.jpg" alt="Waseda University emblem" loading="lazy" decoding="async">
       </div>
       <div class="cv-education-content">
         <h3>Waseda University</h3>
@@ -62,13 +73,7 @@ redirect_from:
   </div>
 </section>
 
-履历 Employment History
-======
-* **2025.01 - Present: 博士后**
-  * 清华大学
-  * 指导老师: 杨余久 (Prof. Yujiu Yang)
-  * 研究方向: 可控生成, 具身智能
-
+## 履历 Employment History
 * **2023.10 - 2024.02: 研究助理**
   * Hong Kong University of Science and Technology (HKUST)
   * 指导老师: 付杰
@@ -96,8 +101,7 @@ redirect_from:
   <img src="/images/cv/c2.png" width="40%">
 </p>
 
-专业服务 Professional Services
-======
+## 专业服务 Professional Services
 
 **高级成员**
   * AC区域主席：ACL ARR 2025 October
@@ -134,16 +138,14 @@ redirect_from:
   <img src="/images/cv/readpaper.png" width="80%">
 </p>
 
-Publications
-======
+## Publications
 Details in [Publications Page](https://wangjunjie-ai.github.io/publications/)
 
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
@@ -154,8 +156,7 @@ Talks
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-MOOC 证书
-======
+## MOOC 证书
 
 主要是大一和大二期间获得的MOOC证书，约40张
 
@@ -164,9 +165,8 @@ MOOC 证书
   <img src="/images/cv/c4.png" width="80%"><br>
   <img src="/images/cv/c5.png" width="80%"><br>
   <img src="/images/cv/c6.png" width="80%"><br>
-  <img src="/images/cv/c6.png" width="80%">
+  <img src="/images/cv/c7.png" width="80%">
 </p>
 
-Language
-======
+## Language
 * 中文 / 英语 / 粤语 / 日语
