@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/cv-style.css' | relative_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/cv-style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 
 ## 研究与教育经历 Research & Education
 
