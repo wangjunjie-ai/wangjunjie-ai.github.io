@@ -10,7 +10,7 @@ redirect_from:
 <img src="/images/avatar-logo.jpg" alt="Junjie Wang avatar" style="float: left; width: 96px; margin: 0 16px 8px 0;">
 
 **Junjie Wang (王军杰)** is currently a **postdoctoral researcher** at the [IIGROUP Lab](https://iigroup.github.io/), [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by [**Prof. Yujiu Yang**](https://iigroup.github.io/about/).
-His research focuses on **Verification-Driven Learning for Reliable Agents** (面向可靠智能体的验证驱动学习): how large language models and multimodal agents can continuously learn from verifiable feedback across document understanding, tool use, code execution, graphical user interfaces, and multimodal interaction. He received his Ph.D. in Engineering from [Waseda University](https://www.waseda.jp/top/en/), under the supervision of [**Prof. Tetsuya Sakai**](http://sakailab.com/tetsuya/).
+His research focuses on **Learning to Reason for Self-Evolving Agents**: enabling agents to learn from knowledge, digital interaction, and physical-world consequences, and ultimately to improve not only their capabilities but also the mechanisms by which they improve. He received his Ph.D. in Engineering from [Waseda University](https://www.waseda.jp/top/en/), under the supervision of [**Prof. Tetsuya Sakai**](http://sakailab.com/tetsuya/).
 
 <div style="clear: both;"></div>
 
@@ -29,45 +29,38 @@ Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明
 
 🌌 **Research Vision / 研究愿景**
 
-### Verification-Driven Learning for Reliable Agents
-### 面向可靠智能体的验证驱动学习
+### Learning to Reason: Toward Reasoning-Centric Recursive Self-Improvement
 
-**From Benchmark-to-Model Feedback to Real-World Interaction**<br>
-**从基准到模型反馈，再到真实世界交互**
+学会推理：迈向以推理为中心的递归自我改进
 
-My research studies how to build reliable agents through verification-driven learning. Different from evaluation that only reports final answers or static leaderboards, I treat benchmarks as model feedback systems: verifiable task environments should expose process-level failures in evidence use, tool calling, code execution, GUI operation, long-horizon planning, and safety constraints; these diagnoses should then be compiled into learning signals for data construction, post-training, preference learning, process rewards, and regression testing; finally, reliability gains should be validated in real-world interactive tasks.
+My central question is: **How can reasoning become a continually improving capability?** I study how agents learn to reason from knowledge, digital interaction, and physical-world consequences as human predefinition decreases and agent autonomy increases.
 
-我的研究关注如何构建可靠智能体，并将“验证驱动学习”作为核心路径。与传统只关注最终答案或静态排行榜的评测不同，我将 benchmark 视为模型反馈系统：通过设计可验证任务环境，暴露智能体在证据使用、工具调用、代码执行、GUI 操作、长程规划和安全约束中的过程性失败；再将这些失败诊断转化为模型可学习的信号，用于数据构造、后训练、偏好学习、过程奖励和回归测试；最终在真实交互任务中验证模型可靠性的持续提升。
+我的核心问题是：**如何让推理成为一种能够持续改进的能力？** 我关注智能体如何从知识、数字交互和物理世界后果中学习推理，并随着人类预定义减少而逐步提升自主性。
 
-**Core loop / 核心闭环**
+<p align="center">
+  <img src="/images/intro.jpg" alt="Three stages from knowledge-grounded reasoning to interaction-grounded and physical-world reasoning" style="display: block; width: 80%; height: auto; margin: 1rem auto 0.5rem;">
+</p>
 
-Verifiable Tasks → Process-Level Diagnosis → Feedback Compilation → Model Post-Training → Reliable Agent Applications → Generalizable Principles ↺ Benchmark Redesign
+<p align="center"><em>From human-defined knowledge to interaction feedback and real-world consequences.<br>从人类预定义知识，走向交互反馈与真实世界后果。</em></p>
 
-可验证任务环境 → 过程级失败诊断 → 反馈信号编译 → 模型后训练与对齐 → 可靠智能体应用 → 基础规律抽象 ↺ 基准重新设计
+🧭 **Three Reasoning Layers / 三层推理**
 
-🔎 **Core Methodology / 核心方法论**
+1. **Knowledge-Grounded Reasoning / 知识驱动推理** — Learn representations and explicit reasoning structures from human-curated data, evidence, and tasks.<br>
+   从人类定义的数据、证据与任务中学习表征和显式推理结构。
 
-My core methodology is **Benchmark-to-Model Feedback**: designing benchmarks not as static leaderboards, but as feedback systems that diagnose agent failures and convert them into model improvement signals.
+2. **Interaction-Grounded Reasoning / 交互驱动推理** — Diagnose trajectories in tools, code, and GUIs, then convert verified feedback into capability updates.<br>
+   诊断工具、代码与 GUI 中的交互轨迹，并将可验证反馈转化为能力更新。
 
-我的核心方法论是 **Benchmark-to-Model Feedback**：不是将 benchmark 仅作为静态排行榜，而是将其作为反馈系统，用于诊断智能体失败并转化为模型改进信号。
+3. **Physical-World Reasoning / 物理世界推理** — Reason about dynamics, actions, consequences, and safety in robotics and autonomous driving.<br>
+   在机器人与自动驾驶中理解动力学、行动、后果与安全约束。
 
-- **Diagnostic evaluation / 诊断型评测**: expose concrete failures in evidence use, tool calling, code execution, GUI interaction, planning, and safety.
-- **Feedback compilation / 反馈信号编译**: turn failures into supervision, preference pairs, process rewards, hard negatives, curricula, and regression tests.
-- **Model improvement / 模型改进**: use these signals for post-training, alignment, error recovery, and reliable deployment in real interactive tasks.
+🔄 **Toward Reasoning-Centric RSI / 迈向以推理为中心的 RSI**
 
-🧭 **Research Areas / 研究方向**
+**Interaction → Verification → Attribution → Internalization → Capability Improvement ↺**
 
-1. **Verifiable multimodal and scientific document understanding / 可验证多模态与科学文档理解**<br>
-   Evidence-grounded reading, long-context multimodal literature, chart understanding, and executable reproduction.
+My long-term goal is **Reasoning-Centric Recursive Self-Improvement (RSI)**: agents that can verify which experiences are trustworthy, attribute success and failure, internalize high-value lessons, and eventually improve the mechanisms by which they improve.
 
-2. **Reliable tool, code, and GUI agents / 可靠工具、代码与 GUI 智能体**<br>
-   Tool-use honesty, repository-level code execution and security, GUI state tracking, and long-horizon interactive workflows.
-
-3. **Feedback learning and post-training / 反馈学习与后训练**<br>
-   High-value supervision selection, process supervision, preference learning, process rewards, and regression-tested capability improvement.
-
-4. **Real-world interactive intelligence / 真实世界交互智能**<br>
-   Knowledge work, creation/editing, tool-using automation, multimodal navigation, embodied intelligence, and autonomous systems.
+我的长期目标是构建**以推理为中心的递归自我改进（Reasoning-Centric RSI）**：让智能体能够验证经验、归因成败、内化高价值反馈，并最终改进其自身的改进机制。
 
 ✒️ **Recent Professional Services / 最近的专业服务**
 
