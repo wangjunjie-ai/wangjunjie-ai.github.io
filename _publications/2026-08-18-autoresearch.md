@@ -1,5 +1,5 @@
 ---
-title: "💭🚩 AutoResearch: Insight In, Hallucination Out"
+title: "🚩 AutoResearch: Insight In, Hallucination Out"
 collection: publications
 category: arxiv
 permalink: /publication/2026-08-18-autoresearch
