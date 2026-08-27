@@ -2,6 +2,7 @@
 title: "A.S.E（AICGSecEval）开源仓库级代码评测体系"
 excerpt: "<img src='https://img.shields.io/github/stars/Tencent/AICGSecEval?style=social' alt='GitHub stars'> 仓库级 AI 生成代码安全评测基准与框架（CVE 驱动、上下文抽取、静态+动态混合评估）<br/><img src='/images/projects/ase/1.png' width='60%'>"
 collection: portfolio
+order: 7
 ---
 
 <img src='https://img.shields.io/github/stars/Tencent/AICGSecEval?style=social' alt='GitHub stars'> 项目地址: [https://github.com/Tencent/AICGSecEval](https://github.com/Tencent/AICGSecEval)

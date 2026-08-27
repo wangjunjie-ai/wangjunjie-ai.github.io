@@ -2,6 +2,7 @@
 title: "封神榜开源体系"
 excerpt: "<img src='https://img.shields.io/github/stars/IDEA-CCNL/Fengshenbang-LM?style=social' alt='GitHub stars'> 开源模型、开源框架、开源榜单<br/><img src='/images/projects/fengshenbang/all_models.png' width='60%'>"
 collection: portfolio
+order: 4
 ---
 
 <img src='https://img.shields.io/github/stars/IDEA-CCNL/Fengshenbang-LM?style=social' alt='GitHub stars'> 项目地址: [https://github.com/IDEA-CCNL/Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM)

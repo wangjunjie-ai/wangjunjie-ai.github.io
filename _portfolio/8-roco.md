@@ -2,6 +2,7 @@
 title: "RoCo Challenge @ AAAI 2026 冠军：ARC-VLA（Anchor & Recovery Curriculum）"
 excerpt: "<img src='https://img.shields.io/badge/RoCo%202026-Final%201st%20Place-blue' alt='award'> ROCO@AAAI2026 决赛冠军｜Deployability-First VLA for Sim-to-Real Collaborative Assembly<br/><img src='/images/projects/roco/roco@AAAI26.png' width='60%'>"
 collection: portfolio
+order: 8
 ---
 
 > 官方主页：https://rocochallenge.github.io/RoCo2026/  

@@ -2,6 +2,7 @@
 title: "MNBVC超大规模中文语料集"
 excerpt: "<img src='https://img.shields.io/github/stars/esbatmop/MNBVC?style=social' alt='GitHub stars'> MNBVC数据集包括新闻、作文、小说、书籍、杂志、论文、台词、帖子、wiki、古诗、歌词、商品介绍、笑话、糗事、聊天记录等一切形式的纯文本中文数据。数据均来源于互联网收集。<br/><img src='/images/projects/mnbvc/1.png' width='60%'>"
 collection: portfolio
+order: 6
 ---
 
 <img src='https://img.shields.io/github/stars/esbatmop/MNBVC?style=social' alt='GitHub stars'> 项目地址：[https://github.com/esbatmop/MNBVC](https://github.com/esbatmop/MNBVC)

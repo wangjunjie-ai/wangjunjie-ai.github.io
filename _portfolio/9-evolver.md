@@ -2,6 +2,7 @@
 title: "Evolver：基于 GEP 的智能体自进化引擎"
 excerpt: "<img src='https://img.shields.io/github/stars/EvoMap/evolver?style=social' alt='GitHub stars'> 将智能体经验沉淀为可复用、可验证、可审计的 Gene、Capsule 与 Evolution Event。<br/><img src='/images/projects/evolver/figure-1.jpg' width='60%'>"
 collection: portfolio
+order: 9
 ---
 
 <img src='https://img.shields.io/github/stars/EvoMap/evolver?style=social' alt='GitHub stars'> 项目地址：[https://github.com/EvoMap/evolver](https://github.com/EvoMap/evolver)

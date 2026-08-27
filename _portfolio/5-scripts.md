@@ -2,6 +2,7 @@
 title: "一些自动脚本"
 excerpt: "记录一些简单的脚本项目"
 collection: portfolio
+order: 5
 ---
 
 因为一些简单的需求，所以做了一些简单的脚本。

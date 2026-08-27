@@ -2,6 +2,7 @@
 title: "AutoResearch：从 Idea 到 Paper-Ready Evidence 的 AI/ML 研究智能体"
 excerpt: "<img src='https://img.shields.io/github/stars/EvoMap/AutoResearch?style=social' alt='GitHub stars'> 将研究想法生成、实验执行与独立验证组织为可追踪、可恢复的自主科研闭环。<br/><img src='/images/projects/autoresearch/figure-1.jpg' width='60%'>"
 collection: portfolio
+order: 10
 ---
 
 <img src='https://img.shields.io/github/stars/EvoMap/AutoResearch?style=social' alt='GitHub stars'> 项目地址：[https://github.com/EvoMap/AutoResearch](https://github.com/EvoMap/AutoResearch)

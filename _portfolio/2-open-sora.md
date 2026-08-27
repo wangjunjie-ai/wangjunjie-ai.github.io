@@ -2,6 +2,7 @@
 title: "Open‑Sora"
 excerpt: "<img src='https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social' alt='GitHub stars'> Open-Sora: Democratizing Efficient Video Production for All<br/><img src='/images/projects/open-sora/demo.png' width='60%'>"
 collection: portfolio
+order: 2
 ---
 
 <img src='https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social' alt='GitHub stars'> 项目地址: [https://github.com/hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora)
