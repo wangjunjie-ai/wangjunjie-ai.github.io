@@ -29,7 +29,7 @@ Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明
 
 🌌 **Research Vision / 研究愿景**
 
-### Learning to Reason: Toward Reasoning-Centric Recursive Self-Improvement
+Learning to Reason: Toward Reasoning-Centric Recursive Self-Improvement
 
 学会推理：迈向以推理为中心的递归自我改进
 
