@@ -18,7 +18,7 @@ Email: wangjunjie@sz.tsinghua.edu.cn (**Please state your purpose / 请您注明
 
 📰 **News / 最近**
 
-- [08*2026] 📜 8 papers are accepted to EMNLP 2026 !
+- [08/2026] 📜 8 papers are accepted to EMNLP 2026 !
 - [06/2026] 🏅 Selected as an ICML 2026 Golden Reviewer.
 - [04/2026] 📜 1 paper is accepted to ICML 2026 !
 - [04/2026] 📜 2 papers are accepted to ACL 2026 !
