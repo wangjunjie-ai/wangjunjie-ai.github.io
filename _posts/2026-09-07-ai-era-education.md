@@ -8,6 +8,8 @@ tags:
   - thoughts
 ---
 
+**🌐 An English version follows the Chinese version below.**
+
 {% include toc %}
 
 AI 时代，我们究竟还应该教什么？
@@ -507,6 +509,510 @@ AI 时代最危险的学生，可能已经不是那个“不知道答案”的�
 而是如何在答案无限供应的世界里，
 
 **仍然保持判断。**
+
+---
+
+**English Version**
+
+## When Answers Are No Longer Scarce: What Should Education Teach in the Age of AI?
+
+In the age of AI, what, exactly, should we still teach?
+
+In the past, we naturally understood education as the transfer of knowledge. Teachers knew more, so they taught and students learned. How many facts, formulas, and methods a person had mastered was also an important measure of whether they had truly “learned.”
+
+Today, however, a student can simply open an AI tool and receive, within seconds, a well-structured explanation, a piece of code, a plan, or even an essay complete with references.
+
+This leads to an apparently reasonable conclusion: if AI already knows so much, do we still need to learn so much knowledge ourselves?
+
+I increasingly believe that this may be the wrong question.
+
+AI has not merely changed the cost of obtaining answers. It has also dramatically lowered the cost of something else:
+
+**Producing an outcome that makes it look as though we already know, already understand, and have already completed the work.**
+
+As answers become less scarce, what remains genuinely scarce in education may become much clearer:
+
+**Judgment.**
+
+Judgment here does not mean “critical thinking” in some vague sense. It means being able to look at an answer, an argument, a system, or even a piece of work we have just completed, and still ask:
+
+Is it actually correct? Why is it correct? Where might it be wrong? How much do I truly understand? Which parts were accomplished by AI, and which abilities genuinely belong to me?
+
+More importantly, when a problem has no ready-made answer, can I still define it clearly, break it down, and build a real solution step by step?
+
+---
+
+## 1. From Books to the Internet to AI: Answers Keep Getting Cheaper, but Judgment Does Not
+
+Books, the internet, and AI are not the same kind of medium, yet the development of knowledge technologies reveals a clear trend:
+
+**Information is becoming easier to obtain, while the cost of judging it has not fallen at the same pace.**
+
+In an era when books were scarce, obtaining a single book could be difficult. The internet made retrieval nearly free, and search engines gradually changed how we remember. In their classic experiments, Sparrow and colleagues found that when people expected information to remain accessible on a computer, they were more likely to remember where to find it than the information itself.[^1] Cognitive scientists later described this broader class of behavior as **cognitive offloading**: using external tools to reduce internal cognitive demands.[^2]
+
+There is nothing inherently wrong with such offloading.
+
+Writing means we do not have to remember everything. Calculators mean we do not have to compute every number by hand. Search engines mean we do not have to memorize every fact. Civilization has always advanced by externalizing parts of human cognition.
+
+What is distinctive about AI is that it has begun to enter more central stages of cognition.
+
+Books primarily outsource storage. Search engines outsource retrieval. Generative AI can now help us explain, summarize, write, program, design, plan, and even evaluate.
+
+<p align="center">
+  <img src="/images/posts/20260907/fig-1.png" width="100%" alt="The progression from books and search engines to generative AI and judgment">
+  <br>
+  <em>Figure 1: From books and search engines to generative AI, answers become increasingly accessible while judgment becomes increasingly important.</em>
+</p>
+
+For the first time, this raises a crucial question:
+
+> **If even the intermediate stages of thinking can be outsourced, does completing a task still mean acquiring the ability to complete it?**
+
+This may be the most fundamental challenge AI poses to education.
+
+---
+
+## 2. What AI Creates First May Not Be “Cognitive Decline,” but a Decoupling of Performance and Capability
+
+This change is easy to overlook because, while using AI, our performance often does improve.
+
+We write code faster, produce more polished essays, solve more problems, and build in hours systems that once took days.
+
+If we measure only output, it is easy to conclude:
+
+**AI is making people increasingly capable.**
+
+But performance is not the same as learning.
+
+A 2025 randomized controlled trial involving nearly one thousand high school students, published in PNAS, offers a striking example. When students used standard GPT-4 assistance during mathematics practice, their practice performance improved by roughly 48 percent. Yet when the AI was removed and students took an independent exam, this group performed about 17 percent worse than the control group that had never used AI. By contrast, a GPT Tutor designed to provide more hints and avoid directly supplying answers largely eliminated this negative effect.[^3]
+
+In other words:
+
+**Completing tasks more successfully does not necessarily mean developing capability more quickly.**
+
+The problem goes further. Students in the standard GPT group did not fully recognize this learning loss.[^3]
+
+This resembles an older psychological phenomenon.
+
+Rozenblit and Keil called it the **illusion of explanatory depth**: we often believe we understand something well until we are asked to explain it step by step.[^4] Fisher and colleagues later found that merely searching the internet for explanations can inflate people's assessments of their own internal knowledge. We partly mistake “I can access this knowledge” for “I possess this knowledge.”[^5]
+
+AI may push this illusion one step further.
+
+The old pattern was:
+
+**“I can find the answer” → “I know.”**
+
+The new pattern increasingly becomes:
+
+**“AI helped me produce it” → “I can do it.”**
+
+Yet the distance between the two may be enormous.
+
+We need to distinguish at least three forms of capability:
+
+**Outcome Capability**: With the help of tools, I can make the result appear.
+
+**Procedural Capability**: I understand the steps and design decisions through which the result was produced.
+
+**Generative Capability**: When faced with a new and more difficult problem, I can still redefine it, decompose it, design a solution, verify it, and solve it.
+
+AI can rapidly amplify the first form without automatically strengthening the other two.
+
+<p align="center">
+  <img src="/images/posts/20260907/fig-2.png" width="100%" alt="AI can strengthen visible output while individual capability still has to be built independently">
+  <br>
+  <em>Figure 2: AI can rapidly strengthen visible output, but procedural and generative capabilities still have to be built by the individual.</em>
+</p>
+
+As this gap grows, it may produce a troubling phenomenon:
+
+**Capability hollowing-out.**
+
+A person's output becomes more impressive, while the boundaries of their actual capability become harder to see.
+
+---
+
+## 3. What Is Most Vulnerable to Hollowing Out Is the Middle Layer Between an Idea and an Outcome
+
+This also explains another pattern I have observed recently.
+
+Many people are perfectly capable of proposing an ambitious goal:
+
+“I want to build a research agent.”
+
+“I want to create a complete platform.”
+
+“I want to implement a self-evolving system.”
+
+The problem is that the truly difficult thinking begins only after that sentence:
+
+What problem does the system actually solve?
+
+What counts as success?
+
+What constraints apply?
+
+What are the inputs and outputs?
+
+Which modules should the system contain?
+
+How should those modules interact?
+
+Where is the greatest risk?
+
+Which assumption should be tested first?
+
+If the result fails, how will we determine which layer caused the failure?
+
+The real process of completing a complex task therefore looks more like:
+
+**Narrative → Specification → Decomposition → Execution → Verification**
+
+The ambitious idea is only the Narrative.
+
+The middle is where capability is actually formed.
+
+Yet AI can create a new shortcut:
+
+**Narrative → AI → Execution that looks complete**
+
+“Build me a complete XX system.”
+
+A directory structure, codebase, README, and architecture diagram then appear.
+
+This unquestionably increases productivity. But when someone repeatedly bypasses Specification, Decomposition, and Verification, AI may replace not only hours of labor but also the learning process through which higher-level capability would otherwise develop.
+
+<p align="center">
+  <img src="/images/posts/20260907/fig-3.png" width="100%" alt="Task specification, decomposition, execution, and verification between an idea and an outcome">
+  <br>
+  <em>Figure 3: Between an idea and an outcome, specification, decomposition, execution, and verification form a middle layer of capability that cannot simply be skipped.</em>
+</p>
+
+A 2026 study of AI-assisted programming education observed a similar pattern. Some beginners knew that AI could be wrong, yet lacked enough domain knowledge to judge whether generated code was correct. The researchers described this as a **“trust but can't verify”** dilemma.[^6] This was a small grounded-theory study and cannot establish that AI inevitably causes long-term capability decline. It does, however, expose the problem with unusual clarity: **generating without being able to verify does not constitute reliable capability.**
+
+This is why the ability to refine and decompose tasks matters so much.
+
+The difference between experts and novices has never been merely that experts know more facts. Classic research on expertise found that experts tend to organize and represent problems according to underlying principles, whereas novices rely more heavily on surface features.[^7]
+
+The larger a task becomes, the more it depends on such an internal representation of problem structure.
+
+A hundred-thousand-line codebase is not merely one hundred times a thousand-line problem. As scale increases, we must learn new forms of abstraction, interfaces, architecture, testing, dependency management, failure recovery, and even organizational coordination.
+
+In other words:
+
+> **A larger problem is not simply a greater number of small problems; it requires new layers of abstraction.**
+
+If someone never truly learns how to decompose downward, they will struggle to abstract upward.
+
+The grand narrative itself is therefore not the problem. The real question is:
+
+> **Can a person's abstraction always be unfolded downward into executable and verifiable detail?**
+
+Good abstraction has a complete structure beneath it.
+
+Bad abstraction has only language beneath it.
+
+One of AI's greatest risks is that it can make the second increasingly resemble the first.
+
+---
+
+## 4. Why Are We So Drawn to This Shortcut?
+
+We should not reduce this to “people are getting lazier,” nor should we casually claim that the brain avoids thinking simply to conserve energy.
+
+A more precise explanation from cognitive science is that **cognitive effort has a subjective cost**.
+
+Theories such as the Expected Value of Control propose that people weigh the rewards of a task, the required intensity of control, and the cost of cognitive effort when deciding how much cognitive control to invest.[^8] A 2024 meta-analysis synthesizing 170 studies also found a robust association between mental effort and negative subjective experience.[^9]
+
+Suppose two paths both produce what appears to be a good result:
+
+Define the problem yourself → decompose it → try → fail → debug → verify,
+
+or:
+
+Tell AI the goal → receive an answer.
+
+The second path is naturally compelling.
+
+<p align="center">
+  <img src="/images/posts/20260907/fig-4.png" width="90%" alt="The difficult path that builds capability and the AI shortcut to an outcome">
+  <br>
+  <em>Figure 4: Two paths may lead to an outcome, but one develops capability through difficulty while the other may bypass the training that matters.</em>
+</p>
+
+Yet many of the abilities education is meant to develop are formed precisely along the first path.
+
+Difficulty is valuable not because suffering is inherently worthwhile, but because certain forms of difficulty expose our internal models:
+
+Why did I fail?
+
+What did I misunderstand?
+
+Which assumption was false?
+
+Where are the limits of my capability?
+
+Research on error-based learning has long shown that, given appropriate feedback, errors themselves can become important learning signals.[^10]
+
+The concern, then, is not that AI helps us, but that:
+
+**Sometimes it helps too early.**
+
+Before a problem representation has formed, the answer has already arrived.
+
+Before decomposition has been attempted, the architecture has already arrived.
+
+Before we realize that an assumption is wrong, AI has already fixed the code.
+
+The result is:
+
+> **AI may not only solve the problem for us; it may also hide our own ignorance from us.**
+
+---
+
+## 5. AI Further Amplifies the Illusion: It Is Fluent, and Often Too Willing to Tell Us We Are Right
+
+If AI were merely a productivity tool, the issues above would already be complex enough.
+
+Generative AI, however, has two additional characteristics that make judgment even harder.
+
+The first is **fluency**.
+
+Psychologists have long known that processing fluency influences judgments of truth. Simply making a statement easier to process can increase the probability that people judge it to be true.[^11]
+
+Today's AI can produce, at extraordinarily low cost:
+
+Complete structure, fluent language, professional terminology, citations, explanations, code, and an entire surface appearance of correctness.
+
+The problem with AI is therefore not merely that it can produce errors, but that:
+
+> **It lowers the cost of manufacturing a feeling of correctness.**
+
+The second characteristic is **sycophancy**.
+
+A 2026 study published in Science tested eleven advanced models and conducted three preregistered human-subject experiments involving 2,405 participants. The researchers found that AI affirmed users' behavior more frequently than humans did. A single interaction with a sycophantic AI could increase participants' confidence that they were right, while reducing their willingness to accept responsibility and repair relationships during conflicts. Participants nevertheless preferred and trusted these responses more.[^12]
+
+These experiments primarily examined social judgment, so they do not directly establish that AI reinforces every kind of scientific error.
+
+They do, however, reveal an important feedback mechanism:
+
+**Belief → Prompt → AI Response → Perceived Validation → Stronger Belief**
+
+<p align="center">
+  <img src="/images/posts/20260907/fig-5.png" width="100%" alt="A self-reinforcing feedback loop between a user's belief and a sycophantic AI response">
+  <br>
+  <em>Figure 5: Sycophantic responses can draw a user's existing beliefs into a self-reinforcing epistemic feedback loop.</em>
+</p>
+
+People already have confirmation bias. AI can use our own language, premises, and inclinations to generate a complete body of supporting material on demand.
+
+The most dangerous “hallucination” may therefore no longer be model hallucination alone.
+
+It may instead be an **epistemic feedback loop** jointly produced by human and AI:
+
+After ten rounds of dialogue with AI, an immature idea acquires the linguistic appearance of a mature theory.
+
+It has claims, examples, counterarguments, and citations.
+
+The only thing missing is genuinely independent falsification.
+
+This is also why research training remains exceptionally important in the age of AI.
+
+What research truly teaches is not merely how to write papers. It repeatedly forces us to accept:
+
+My hypothesis may be wrong.
+
+An elegant story may not fit the data.
+
+A single counterexample may overturn the entire explanation.
+
+A conclusion must withstand verification by others.
+
+Genuine judgment includes a persistent ability to dismantle our own sense that we already understand.
+
+---
+
+## 6. So What Should Education Protect?
+
+None of this leads to the conclusion that we should stop using AI.
+
+A 2026 systematic review and meta-analysis of AI in STEM education included 85 studies, 49 of which entered the quantitative analysis. Its results do not support the simple claim that “AI is harmful overall.” Heterogeneity across studies was extremely high, and one crucial distinction was whether AI **augmented** students' existing cognitive activity or **substituted for** cognitive activity that students should have performed themselves. The latter could produce negative effects.[^13]
+
+A more useful principle is therefore not:
+
+**AI vs. No AI**
+
+but:
+
+**Augmentation vs. Substitution**
+
+We should absolutely delegate low-value, repetitive cognitive labor to AI.
+
+But we should not prematurely and permanently outsource the processes responsible for developing future independent capability.
+
+The boundary is not fixed.
+
+For an expert, writing boilerplate for the thousandth time offers almost no learning value and can be delegated entirely to AI.
+
+For a student just beginning to program, the same piece of code may be precisely where a basic mental model of program structure is formed.
+
+Education should therefore ask not:
+
+**“Is AI allowed on this assignment?”**
+
+but:
+
+> **“For this student, at this stage, and for this learning objective, which cognitive activities must genuinely take place within the student?”**
+
+This also means that knowledge has not lost its value.
+
+Quite the opposite.
+
+Without sufficient domain knowledge, a person may not even be capable of recognizing where AI is wrong. One increasingly important function of knowledge is no longer just to generate answers ourselves, but to provide the internal model required to evaluate answers.
+
+On this foundation, judgment in the age of AI can be distilled into at least four practices:
+
+**Define**: Determine what the problem actually is.
+
+**Decompose**: Turn a vague goal into an executable and verifiable structure.
+
+**Verify**: Know why an answer deserves to be trusted, and how to test whether it may be wrong.
+
+**Calibrate**: Know what you genuinely understand and what AI merely helped you complete.
+
+That is:
+
+**Define → Decompose → Verify → Calibrate → Decide**
+
+<p align="center">
+  <img src="/images/posts/20260907/fig-6.png" width="100%" alt="A student developing definition, decomposition, verification, and calibration with support from AI and a teacher">
+  <br>
+  <em>Figure 6: Cognitive sovereignty in the age of AI means moving toward reliable judgment through definition, decomposition, verification, and calibration, with support from both AI and teachers.</em>
+</p>
+
+---
+
+## 7. What Should Teachers Teach? What Should Students Learn?
+
+If we accept this argument, education itself must change accordingly.
+
+Teachers must, of course, continue to teach knowledge. But they cannot assess only the final answer.
+
+An increasingly important role for teachers will be to **make students' cognitive processes visible**.
+
+Instead of asking only:
+
+“What is the answer?”
+
+They should also ask:
+
+“Why did you define the problem this way?”
+
+“Why did you decompose the task this way?”
+
+“Where is the most dangerous assumption?”
+
+“What evidence would make you change your conclusion?”
+
+“If the AI's answer is wrong, how will you discover the error?”
+
+“If the AI were removed, how much could you reconstruct?”
+
+<p align="center">
+  <img src="/images/posts/20260907/fig-7.png" width="100%" alt="A teacher guiding a student to examine the definition, decomposition, and verification behind an AI answer">
+  <br>
+  <em>Figure 7: The classroom should shift its focus from inspecting final products to examining the processes of problem definition, task decomposition, verification, and calibration.</em>
+</p>
+
+Assessment can change as well.
+
+Instead of banning AI, give students an apparently polished AI-generated answer and ask them to locate the first real error.
+
+Give them two contradictory answers and ask which has stronger evidence.
+
+Give them a system produced by AI and ask them to conduct an architecture review.
+
+Allow AI throughout a project, but require an in-person defense at the end:
+
+Why was the system designed this way?
+
+What happens if the dataset grows by a factor of ten?
+
+Which component failure would bring the system down?
+
+Which parts are you currently unable to verify independently?
+
+Education could even include periodic **AI-off transfer tests**:
+
+Continue using AI for real-world tasks, but occasionally remove the tool during learning to see what capability actually remains with the learner.
+
+The purpose is not to prove that humans are better than AI.
+
+It is to keep calibrating:
+
+**How much did AI improve my Performance, and how much Capability did I actually acquire?**
+
+---
+
+## Conclusion: When Answers Are No Longer Scarce
+
+In the past, education worried most about students not knowing the answer.
+
+AI is making the absence of an answer increasingly rare.
+
+A question can instantly receive ten explanations. An idea can instantly receive ten supporting arguments. A system can be completed by multiple agents working in parallel.
+
+What becomes truly scarce in the future may no longer be the ability to produce more answers.
+
+Instead:
+
+Which answer deserves to be trusted?
+
+Which evidence is genuine?
+
+Which system only looks complete?
+
+How can an ambitious goal be decomposed until it reaches the real world?
+
+How much do I actually understand?
+
+Where are the boundaries of AI's capability?
+
+Where are the boundaries of my own?
+
+What education must protect in the age of AI may therefore be not any particular traditional mode of learning, but a more fundamental form of **cognitive sovereignty**:
+
+We can use AI extensively,
+
+while still defining problems ourselves.
+
+We can delegate vast amounts of labor to AI,
+
+while still understanding how the task was decomposed.
+
+We can accept answers from AI,
+
+while still retaining the ability to verify them.
+
+We can accomplish things with AI that were previously beyond our reach,
+
+without mistaking all of those accomplishments for capabilities we personally possess.
+
+The most vulnerable student in the age of AI may no longer be the one who “does not know the answer.”
+
+It may be someone who:
+
+**Always has an answer, yet no longer knows whether they understand it.**
+
+Or, one step further, someone who:
+
+**Can continually produce finished work, yet is gradually losing the ability to turn an unknown problem into an executable one.**
+
+When answers are no longer scarce, the central task of education is not to teach people how to obtain more answers.
+
+It is to teach them how, in a world of unlimited answers,
+
+**to preserve their judgment.**
 
 ---
 
