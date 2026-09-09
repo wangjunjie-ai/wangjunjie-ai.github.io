@@ -13,10 +13,16 @@ order: 10
 
 2026 年 9 月 8 日和 9 月 9 日，AutoResearch 连续两天位列 Hugging Face **Daily Trending Papers 第一名**。
 
-2026 年 9 月 5 日，AutoResearch 首次登上 Trendshift 的 **Python Repository of the Day 第一名**。[查看 Trendshift 趋势记录](https://trendshift.io/repositories/202902)
-
 <p align=center>
   <img src="/images/projects/autoresearch/trending.jpg" width="100%" alt="AutoResearch 位列 Hugging Face Daily Trending Papers 第一名">
+</p>
+
+2026 年 9 月 5 日，AutoResearch 首次登上 Trendshift 的 **Python Repository of the Day 第一名**。[查看 Trendshift 趋势记录](https://trendshift.io/repositories/202902)
+
+<p align="center">
+  <a href="https://trendshift.io/repositories/202902">
+    <img src="https://trendshift.io/api/badge/trendshift/repositories/202902/daily?language=Python" width="250" alt="AutoResearch：Trendshift Python Repository of the Day 第一名">
+  </a>
 </p>
 
 ## 项目概述
