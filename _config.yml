@@ -189,6 +189,11 @@ exclude:
   - README
   - tmp
   - vendor
+  # Local-only portfolio entries and their assets
+  - _portfolio/9-evolver.md
+  - _portfolio/10-autoresearch.md
+  - images/projects/evolver
+  - images/projects/autoresearch
 keep_files:
   - .git
   - .svn

@@ -15,3 +15,9 @@ package-lock.json
 # Ignore the vendor file and bundle for alternative installation
 vendor/
 .bundle/
+
+# Keep private portfolio entries and their assets local-only
+/_portfolio/9-evolver.md
+/_portfolio/10-autoresearch.md
+/images/projects/evolver/
+/images/projects/autoresearch/
