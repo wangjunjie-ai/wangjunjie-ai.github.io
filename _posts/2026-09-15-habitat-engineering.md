@@ -2,6 +2,7 @@
 title: 'Habitat Engineering：AI时代，把判断力写进环境'
 date: 2026-09-15
 permalink: /posts/2026/09/habitat-engineering/
+excerpt: 'Habitat Engineering 关注的不是怎样精确控制智能体的每一个动作，而是怎样设计一个环境，让正确的事情更容易发生。'
 tags:
   - AI
   - agents
