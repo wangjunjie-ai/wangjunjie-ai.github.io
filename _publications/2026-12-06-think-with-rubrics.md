@@ -1,11 +1,11 @@
 ---
-title: "💭🚩 Think-with-Rubrics: From External Evaluator to Internal Reasoning Guidance"
+title: "[NeurIPS 2026] 🚩 Think-with-Rubrics: From External Evaluator to Internal Reasoning Guidance"
 collection: publications
-category: arxiv
+category: conferences
 permalink: /publication/2026-05-08-think-with-rubrics
 excerpt: 'Instruction Following, Rubric-Guided Reasoning, Rubric-as-Reward, Self-Generated Rubrics, Reinforcement Learning, Self-Consistency'
-date: 2026-05-08
-venue: 'Arxiv'
+date: 2026-12-06
+venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2605.07461'
 bibtexurl: # empty
 citation: # empyty
