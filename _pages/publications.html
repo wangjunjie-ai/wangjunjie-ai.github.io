@@ -17,11 +17,24 @@ author_profile: true
 
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
+  <nav class="toc" aria-label="Publication categories">
+    <header><h4 class="nav__title">On This Page</h4></header>
+    <ul class="toc__menu">
+      {% for category in site.publication_category %}
+        {% assign category_name = category[0] %}
+        {% assign publications_in_category = site.publications | where: "category", category_name %}
+        {% if publications_in_category.size > 0 %}
+          <li><a href="#publication-category-{{ category_name | slugify }}">{{ category[1].title }} ({{ publications_in_category | size }})</a></li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+
   {% for category in site.publication_category %}
     {% assign category_name = category[0] %}
     {% assign publications_in_category = site.publications | where: "category", category_name %}
     {% if publications_in_category.size > 0 %}
-      <h2>{{ category[1].title }} ({{ publications_in_category | size }})</h2>
+      <h2 id="publication-category-{{ category_name | slugify }}">{{ category[1].title }} ({{ publications_in_category | size }})</h2>
       <hr />
       {% for post in publications_in_category reversed %}
         {% include archive-single.html %}
