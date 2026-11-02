@@ -12,6 +12,8 @@ citation: # empty
 slidesurl: # empty
 ---
 
+Arxiv地址：[https://arxiv.org/abs/2609.01613](https://arxiv.org/abs/2609.01613)
+
 EMNLP 2026 主会论文：[ACL Anthology](https://aclanthology.org/2026.emnlp-main.1927/)
 
 代码：[https://github.com/GaoMengGladys/SAS](https://github.com/GaoMengGladys/SAS)

@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-10-24-latent-dreaming
 excerpt: 'Vision-Language-Action, Autonomous Driving, Latent Reasoning, Chain-of-Thought, Visual Grounding'
 date: 2026-10-24
-venue: 'EMNLP Findings'
+venue: 'EMNLP'
 paperurl: 'https://aclanthology.org/2026.findings-emnlp.401/'
 bibtexurl:
 citation:

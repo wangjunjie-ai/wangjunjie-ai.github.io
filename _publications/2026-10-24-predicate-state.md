@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-10-24-predicate-state
 excerpt: 'Video Reasoning Segmentation, Predicate-State Grounding, Temporal Grounding, Dynamic Visual Witnesses, Benchmark'
 date: 2026-10-24
-venue: 'Findings of EMNLP 2026'
+venue: 'EMNLP'
 paperurl: 'https://aclanthology.org/2026.findings-emnlp.938/'
 bibtexurl: # empty
 citation: # empty
